@@ -1,0 +1,21 @@
+# Environments & Python
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Flutter & Mobile
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Java
+*.class
+
+# API Keys and Secrets
+.env
+secrets.json
+keys.json
